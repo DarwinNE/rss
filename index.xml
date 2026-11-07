@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="https://davbucci.42web.io/index.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://darwinne.github.io/rss/index.xml" rel="self" type="application/rss+xml" />
 <ttl>120</ttl>
     <title>Davide Bucci</title>
     <link>https://davbucci.42web.io/</link>
@@ -15,7 +15,7 @@
         <category>New site address</category>
         <pubDate>Sat, 07 Nov 2026 00:51:32 GMT</pubDate>
         <link>https://davbucci.42web.io</link>
-        <guid>https://davbucci.42web.io&guid=ms60</guid>
+        <guid>https://davbucci.42web.io&amp;guid=ms60</guid>
     </item>
 
     <item>
@@ -26,7 +26,7 @@
         <category>New music</category>
         <pubDate>Fri, 30 Oct 2026 11:29:32 GMT</pubDate>
         <link>https://darwinne.bandcamp.com/track/jupiters-moons</link>
-        <guid>https://davbucci.42web.io&guid=ms59</guid>
+        <guid>https://davbucci.42web.io&amp;guid=ms59</guid>
     </item>
 
     <item>
@@ -142,7 +142,7 @@ This page describes the history of my synthesizer and how I managed to install t
         </description>
         <category>New music</category>
         <pubDate>Sun, 22 Feb 2026 13:33:32 GMT</pubDate>
-        <link>https://www.youtube.com/watch?v=jwaNQpXiD8g&list=PLIcLZrZP4Ce8-ouLONnM0YFwQqlIMZww7&index=2</link>
+        <link>https://www.youtube.com/watch?v=jwaNQpXiD8g&amp;list=PLIcLZrZP4Ce8-ouLONnM0YFwQqlIMZww7&amp;index=2</link>
         <guid>yt53</guid>
     </item>
 
