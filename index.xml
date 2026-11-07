@@ -15,7 +15,7 @@
         <category>New site address</category>
         <pubDate>Sat, 07 Nov 2026 00:51:32 GMT</pubDate>
         <link>https://davbucci.42web.io</link>
-        <guid>ms60</guid>
+        <guid>https://davbucci.42web.io&guid=ms60</guid>
     </item>
 
     <item>
@@ -26,7 +26,7 @@
         <category>New music</category>
         <pubDate>Fri, 30 Oct 2026 11:29:32 GMT</pubDate>
         <link>https://darwinne.bandcamp.com/track/jupiters-moons</link>
-        <guid>ms59</guid>
+        <guid>https://davbucci.42web.io&guid=ms59</guid>
     </item>
 
     <item>
@@ -60,8 +60,8 @@
          </description>
          <category>Site update</category>
          <pubDate>Sat, 15 Aug 2026 10:20:32 GMT</pubDate>
-         <link>https://davbucci.42web.io/index.php?argument=home.inc&language=English</link>
-        <guid>https://davbucci.42web.io/index.php?argument=home.inc&language=English&amp;in=58</guid>
+         <link>https://davbucci.42web.io/index.php?argument=home.inc&amp;language=English</link>
+        <guid>https://davbucci.42web.io/index.php?argument=home.inc&amp;language=English&amp;in=58</guid>
     </item>
 
 
@@ -109,7 +109,7 @@
         <category>Physics</category>
         <pubDate>Sat, 10 May 2026 10:31:32 GMT</pubDate>
         <link>https://davbucci.42web.io/index.php?argument=fisica/fisica.inc&amp;language=English</link>
-        <guid>https://davbucci.42web.io/index.php?argument=fisica/fisica.inc&language=English&amp;in=55</guid>
+        <guid>https://davbucci.42web.io/index.php?argument=fisica/fisica.inc&amp;language=English&amp;in=55</guid>
     </item>
 
     <item>
