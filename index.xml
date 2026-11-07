@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://davbucci.42web.io/index.xml" rel="self" type="application/rss+xml" />
+<ttl>120</ttl>
+    <title>Davide Bucci</title>
+    <link>https://davbucci.42web.io/</link>
+    <description>Davide Bucci's works</description>
+
+    <item>
+        <title>New server!</title>
+        <description>
+            I had to move the website to a new server. The host is now InfinityFree and the web address has changed! Update all your links and the RSS feed!!!
+        </description>
+        <category>New site address</category>
+        <pubDate>Sat, 07 Nov 2026 00:51:32 GMT</pubDate>
+        <link>https://davbucci.42web.io</link>
+        <guid>ms60</guid>
+    </item>
+
+    <item>
+        <title>A new piece of music: Jupiter's Moons</title>
+        <description>
+            Hello! I've written a new piece of music called Jupiter's Moons. I hope you'll enjoy it!
+        </description>
+        <category>New music</category>
+        <pubDate>Fri, 30 Oct 2026 11:29:32 GMT</pubDate>
+        <link>https://darwinne.bandcamp.com/track/jupiters-moons</link>
+        <guid>ms59</guid>
+    </item>
+
+    <item>
+        <title>Bit99 Tool reaches version 1.0</title>
+        <description>
+        I have released the version 1.0 of the Bit 99 Sysex editor (Bit99 Tool) for macOS.
+        </description>
+        <category>Electronics</category>
+        <pubDate>Sat, 17 Oct 2026 11:24:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=musica/bit99/bit99.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=musica/bit99/bit99.inc&amp;in=58</guid>
+    </item>
+
+    <item>
+        <title>New page on the website: My Crumar Bit 99 synthesizer</title>
+        <description>
+        In January and February 2026, I had to spend a considerable amount of time in bed. To pass the time, I watched all the videos and read all the articles I could find about Italian synthesizers. I already understood that I had a strong fascination for analog poly-synths and, after some research, I began searching for a Crumar Bit 99.
+        </description>
+        <category>Electronics</category>
+        <pubDate>Sun, 27 Sep 2026 22:46:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=musica/bit99/bit99.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=musica/bit99/bit99.inc</guid>
+    </item>
+
+
+
+    <item>
+         <title>New update: Dark mode available for the website</title>
+         <description>
+         I added a button on the left that lets you switch between bright and dark mode through the whole website.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 15 Aug 2026 10:20:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=home.inc&language=English</link>
+        <guid>https://davbucci.42web.io/index.php?argument=home.inc&language=English&amp;in=58</guid>
+    </item>
+
+
+    <item>
+         <title>New update: MIDI splitter project firmware version 2.1</title>
+         <description>
+         I updated the firmware for the PIC16F876 in the MIDI splitter/patch bay project. The LCD display now is initialized in a more reliable way.
+         </description>
+         <category>Site update</category>
+         <pubDate>Fri, 14 Aug 2026 16:55:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/midi_splitter/midi_splitter.inc&amp;language=English</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/midi_splitter/midi_splitter.inc&amp;language=English&amp;in=57</guid>
+    </item>
+
+
+    <item>
+        <title>A new YouTube video: Tour Perret à Grenoble, une vidéo en musique (avant et après travaux).</title>
+        <description>
+            Last month, I visited the Perret Tower in Grenoble, a concrete tower built in 1925. It is an amazing building that was closed for 60 years and recently restored. I took some pictures before and after the restoration and I built a music video featuring my music.
+        </description>
+        <category>New music</category>
+        <pubDate>Thu, 13 Aug 2026 11:26:32 GMT</pubDate>
+        <link>https://www.youtube.com/watch?v=FOCdDNQfJEk</link>
+        <guid>yt56</guid>
+    </item>
+
+
+    <item>
+        <title>A new YouTube video: Chasing auroras.</title>
+        <description>
+            I wrote a piece of music that predominantly features my Crumar Bit 99. It is atmospheric and dreamy, I hope you'll like it!
+        </description>
+        <category>New music</category>
+        <pubDate>Thu, 13 Aug 2026 11:26:32 GMT</pubDate>
+        <link>https://www.youtube.com/watch?v=5DDXtDZYRR0</link>
+        <guid>yt55</guid>
+    </item>
+
+
+    <item>
+        <title>New link on the physics section of the website: cRCWA</title>
+        <description>
+        The RCWA method is well known for solving Maxwell equations on periodic structures. cRCWA is an open source project that offers an efficient implementation of this method, plus some extension such as AFMM and the ability to take into account cylindrical coordinates.
+        </description>
+        <category>Physics</category>
+        <pubDate>Sat, 10 May 2026 10:31:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=fisica/fisica.inc&amp;language=English</link>
+        <guid>https://davbucci.42web.io/index.php?argument=fisica/fisica.inc&language=English&amp;in=55</guid>
+    </item>
+
+    <item>
+        <title>New page on the website: Building a Turbokit replica for a GEM S2</title>
+        <description>
+        I got a GEM S2 synthesizer in 1996. It was an early model, non Turbo. I used it for many years even on stage and it was a good instrument. I wanted to install a Turbokit back then, but I never got the occasion to do it. After 2005, I did not use the synthesizer very often until 2025 when I took it out again. A brief search revealed that DitroniX successfully managed to build a replica of GEM's original Turbokit and all the information I needed was available. I therefore installed a Gotek disk drive emulator in the synthesizer and proceeded to design and build my own Turbokit.
+This page describes the history of my synthesizer and how I managed to install the Gotek drive and (more importantly) the a replica of the Turbokit.
+        </description>
+        <category>Electronics</category>
+        <pubDate>Sat, 9 May 2026 10:31:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/gem_s2/gem_s2.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/gem_s2/gem_s2.inc</guid>
+    </item>
+
+    <item>
+        <title>A new YouTube video: Impro on a Crumar BIT99 analog polysynth</title>
+        <description>
+            I got recently a very nice Crumar BIT99 synthesizer. Similar to a certain extent to a Juno 106, it is a MIDI-controllable analog polysynth built in Italy from 1985 to 1987. I recorded a short improvisation with that nice synth, along with an Arturia Drumbrute Impact drum machine. Enjoy!
+        </description>
+        <category>New music</category>
+        <pubDate>Sat, 9 May 2026 10:31:32 GMT</pubDate>
+        <link>https://www.youtube.com/watch?v=TMGrjNyKKN8</link>
+        <guid>yt54</guid>
+    </item>
+
+    <item>
+        <title>A new YouTube video: Liminal States</title>
+        <description>
+            Hello! I wrote a new piece of music, called Liminal States and I recorded a YouTube video about it. It prominently features a fun electronic instrument from the 1970s, called a Stylophone. I hope you will enjoy.
+        </description>
+        <category>New music</category>
+        <pubDate>Sun, 22 Feb 2026 13:33:32 GMT</pubDate>
+        <link>https://www.youtube.com/watch?v=jwaNQpXiD8g&list=PLIcLZrZP4Ce8-ouLONnM0YFwQqlIMZww7&index=2</link>
+        <guid>yt53</guid>
+    </item>
+
+    <item>
+        <title>A new page: Repairing my Commodore 64</title>
+        <description>
+            Hi to all, I won a online auction for a broken C64 that wasn't working. It was the first time I tried to repair such a computer and I wanted to document in detail what I did on the machine. The post is therefore rather technical. 
+        </description>
+        <category>New music</category>
+        <pubDate>Sat, 24 Jan 2026 14:33:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=retroc/c64/c64.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=retroc/c64/c64.inc&amp;in=52</guid>
+    </item>
+
+    <item>
+        <title>Updated the Revox B77 page: ball bearing or not?</title>
+        <description>
+            Hi to all, I updated the page about the Revox B77 mk II. I study the effect of the popular mod that consists in replacing the original fixed roller on the right tape guide with a ball bearing. The results seem better with the original factory configuration, though.
+        </description>
+        <category>New music</category>
+        <pubDate>Sun, 21 Sep 2025 15:17:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=varie/revoxb77/revoxb77.inc#bearing</link>
+        <guid>https://davbucci.42web.io/index.php?argument=varie/revoxb77/revoxb77.inc#bearing&amp;in=51</guid>
+    </item>
+
+
+    <item>
+        <title>Two new pieces of music</title>
+        <description>
+            Hi to all, I published two new pieces of music, both studying combinations of short musical modules. They are called Soupçons and Connections. I added them on a Soundcloud playlist dedicated to minimalist music I wrote. Enjoy!
+        </description>
+        <category>New music</category>
+        <pubDate>Sun, 21 Sep 2025 15:17:32 GMT</pubDate>
+        <link>https://soundcloud.com/user-375194295/sets/minimalism</link>
+        <guid>https://soundcloud.com/user-375194295/sets/minimalism</guid>
+    </item>
+    
+    <item>
+        <title>New music video</title>
+        <description>
+            I published a new music video on YouTube. It is an atmospheric piece of music called Réminiscence and the video shows nature in a mountain landscape. Enjoy!
+        </description>
+        <category>New music video</category>
+        <pubDate>Sun, 10 Aug 2025 12:17:32 GMT</pubDate>
+        <link>https://www.youtube.com/watch?v=0_FYJ9-caZA</link>
+        <guid>https://www.youtube.com/watch?v=0_FYJ9-caZA</guid>
+    </item>
+    <item>
+        <title>Website reorganization: split "music" and "misc" sections</title>
+        <description>
+            I reorganized my website, by splitting the "music" and the "misc" section. This is more similar to the 2007 philosophy of the website, when I wrote the PHP structure that is still being used today. I also updated the contents of the "music" page by adding a link to my Bandwagon page as well to a playlist of my music videos on YouTube. Enjoy!
+        </description>
+        <category>Site update</category>
+        <pubDate>Tue, 6 Aug 2025 15:33:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=musica/musica.inc</link>
+        <guid>https://davbucci.42web.io/index.php&amp;in=50</guid>
+    </item>
+    <item>
+        <title>RSS are back!</title>
+        <description>
+            I decided to bring back the RSS in this website, after a 9-year pause. We need them more than ever in a moment when algorithms try to dominate everything.
+        </description>
+        <category>Site update</category>
+        <pubDate>Tue, 5 Aug 2025 22:21:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php</link>
+        <guid>https://davbucci.42web.io/index.php&amp;in=49</guid>
+    </item>
+    <item>
+        <title>Nuovo articolo in inglese: Playing with chaos</title>
+        <description>
+            Ho pubblicato un nuovo articolo in inglese: Playing with chaos.
+        </description>
+        <category>Site update</category>
+        <pubDate>Fri, 11 Nov 2016 19:58:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/chua/chua.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/chua/chua.inc</guid>
+    </item>
+    <item>
+        <title>Nuovo video su FidoCadJ</title>
+        <description>
+            Ho messo su YouTube la registrazione del mio intervento al LinuxDay
+            Torino 2016 (22 ottobre), alla facoltà di informatica
+            dell'università di Torino. Ne ho approfittato per raggruppare i
+            video tutorial che ho fatto qualche anno fa.
+        </description>
+        <category>Site update</category>
+        <pubDate>Tue, 25 Oct 2016 19:58:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;language=Italiano</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;language=Italiano&amp;in=49</guid>
+    </item>
+    <item>
+        <title> Circuit retardateur pour Préamplificateur à lampes</title>
+        <description>
+        J'ai rajouté un circuit retardateur pour éviter que le préamplificateur fasse souffrir les enceintes à l'allumage et quand il est éteint.
+        </description>
+        <category>Site update</category>
+        <pubDate>Sun, 10 Jan 2016 21:22:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/pre_riaa/pre_riaa.inc&amp;in=49</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/pre_riaa/pre_riaa.inc&amp;in=49</guid>
+    </item>
+    <item>
+        <title> Préamplificateur RIAA à lampes pour cellules à aimant mobile</title>
+        <description>
+         Simple préamplificateur à lampes, équipé d'un étage PHONO qui permet d'obtenir une égalisation RIAA très précise et est adapté à traiter le signal issu d'une cellule à aimant mobile (MM - Moving Magnet). Page actuellement en Anglais et en Français.
+        </description>
+        <category>Site update</category>
+        <pubDate>Mon, 8 Jun 2015 20:01:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/pre_riaa/pre_riaa.inc&amp;in=48</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/pre_riaa/pre_riaa.inc&amp;in=48</guid>
+    </item>
+    
+    <item>
+        <title>Misura distorsione massima potenza amplificatore basato su ESP P3</title>
+        <description>
+        Ho aggiunto alcune misure di distorsione all'amplificatore, realizzate con un analizzatore di spettro FFT Brüel and Kjaer 2034. J'ai rajouté des mesures de distorsion sur l'amplificateur audio à pleine puissance, avec un analysateur FFT Brüel and Kjaer 2034.
+        </description>
+        <category>Site update</category>
+        <pubDate>Mon, 23 Jun 2014 00:52:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/amplificatore/amplificatore.inc&amp;in=47</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/amplificatore/amplificatore.inc&amp;in=47</guid>
+    </item>
+    
+    <item>
+        <title>Nuova versione di FidoCadJ</title>
+        <description>
+            Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.24.4. 
+            Il progetto FidoCadJ è stato spostato su una pagina web a sé stante.
+            J'ai mis sur SourceForge la version 0.24.4 de FidoCadJ.  
+            Le projet FidoCadJ a merité une nouvelle page WEB à lui tout seul.
+        </description>
+        <category>Site update</category>
+        <pubDate>Sun, 4 May 2014 20:44:32 GMT</pubDate>
+        <link>http://fidocadj.sourceforge.net</link>
+        <guid>http://fidocadj.sourceforge.net</guid>
+    </item>
+    <item>
+        <title>A technical article about RCWA/AFMM for bent waveguides</title>
+        <description>
+            I published two years ago an article about the application of the RCWA/AFMM method to the study of bent waveguides. This paper was published in Journal of the Optical Society of America A (JOSA A) and is made available as an electronic reprint with the permission of OSA. The paper can be found at the following URL on the OSA website: http://www.opticsinfobase.org/josaa/abstract.cfm?uri=josaa-29-3-367  Systematic or multiple reproduction or distribution to multiple locations via electronic or other means is prohibited and is subject to penalties under law.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 26 Apr 2014 12:07:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/fisica/papers/josaa-29-3-367.pdf</link>
+        <guid>https://davbucci.42web.io/fisica/papers/josaa-29-3-367.pdf</guid>
+    </item>
+    
+    <item>
+        <title>Two new libraries for FidoCadJ</title>
+        <description>
+            From Franco Minucci and Paolo Squaratti, two brand new FidoCadJ symbol libraries.
+         </description>
+         <category>Site update</category>
+         <pubDate>Tue, 15 Apr 2014 22:38:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=46</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=46</guid>
+    </item>
+    
+    <item>
+        <title>Nuova libreria FidoCad/FidoCadJ</title>
+        <description>
+            Nuova libreria fornita da Alberto e dedicata a simboli per l'idraulica ed i sanitari.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 10 Nov 2013 18:30:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=45</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=45</guid>
+    </item>
+    <item>
+        <title>Nuova versione di FidoCadJ</title>
+        <description>
+            Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.24.3. J'ai mis sur SourceForge la version 0.24.3 de FidoCadJ.  
+        </description>
+        <category>Site update</category>
+        <pubDate>Thu, 7 Nov 2013 20:33:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=44</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=44</guid>
+    </item>
+    <item>
+        <title>Nuova libreria FidoCad/FidoCadJ</title>
+        <description>
+            Nuova libreria fornita da Paolo Rognoni e dedicata al sistema di sviluppo PIERIN PIC18. Nouvelle bibliothéque FidoCadJ dédiée au système de développement PIERIN PIC18.
+        </description>
+        <category>Site update</category>
+        <pubDate>Tue, 9 Jul 2013 20:17:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=43</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=43</guid>
+    </item>
+    <item>
+        <title>New translation: A wall clock with PIC16F84 and PCF8573, second part</title>
+        <description>
+            I translated in english the article "A wall clock with PIC16F84 and PCF8573, second part".
+        </description>
+        <category>Site update</category>
+        <pubDate>Sat, 22 Jun 2013 21:03:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/orologio/orologio_2.inc&amp;language=English&amp;in=42</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/orologio/orologio_2.inc&amp;language=English&amp;in=42</guid>
+    </item>
+    <item>
+        <title>New translation: A wall clock with PIC16F84 and PCF8573, first part</title>
+        <description>
+            I translated in english the article "A wall clock with PIC16F84 and PCF8573, first part".
+        </description>
+        <category>Site update</category>
+        <pubDate>Thu, 20 Jun 2013 21:33:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/orologio/orologio_1.inc&amp;language=English&amp;in=41</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/orologio/orologio_1.inc&amp;language=English&amp;in=41</guid>
+    </item>
+    <item>
+            <title>Extensive checking of the site for the W3C validation</title>
+             <description>
+            I checked in detail all pages of the site so that they pass the W3C Markup validation.
+            </description>
+            <category>Site update</category>
+            <pubDate>Sun, 2 Jun 2013 13:08:32 GMT</pubDate>
+            <link>https://davbucci.42web.io/index.php?in=40</link>
+            <guid>https://davbucci.42web.io/index.php?in=40</guid>
+    </item>
+    <item>
+            <title>Nuova libreria FidoCad/FidoCadJ</title>
+             <description>
+            Nuova libreria fornita da MacZap e dedicata ad Arduino.
+            </description>
+            <category>Site update</category>
+            <pubDate>Sun, 2 Jun 2013 13:08:32 GMT</pubDate>
+            <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=39</link>
+            <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=39</guid>
+    </item>
+    <item>
+            <title>New translation: Bitbanging on I2C with a PIC micro</title>
+            <description>
+            I translated in english the article "Bitbanging on I2C with a PIC micro".
+            </description>
+            <category>Site update</category>
+            <pubDate>Sun, 26 May 2013 17:39:32 GMT</pubDate>
+            <link>https://davbucci.42web.io/index.php?argument=elettronica/pic_i2c/pic_i2c.inc&amp;language=English&amp;in=38</link>
+            <guid>https://davbucci.42web.io/index.php?argument=elettronica/pic_i2c/pic_i2c.inc&amp;language=English?&amp;in=38</guid>
+    </item>
+    <item>
+            <title>Bouton Twitter sur toutes les pages</title>
+            <description>
+            Un bouton Twitter est à disposition sur toutes les pages du site, pour vous permettre de signaler facilement ce que vous avez aimé.
+            Un bottone Twitter è a vostra disposizione su tutte le pagine del sito, per permettervi di condividere quello che vi è piaciuto.
+            </description>
+            <category>Site update</category>
+            <pubDate>Sun, 19 May 2013 12:31:32 GMT</pubDate>
+            <link>https://davbucci.42web.io/index.php?in=37</link>
+            <guid>https://davbucci.42web.io/index.php?in=37</guid>
+    </item>    
+    <item>
+            <title>Nuovo articolo su ElectroYou</title>
+            <description>
+            Ho scritto e messo a disposizione su ElectroYou un articolo sulle curve dei tubi elettronici e dei dispositivi a semiconduttore.
+            </description>
+            <category>Site update</category>
+            <pubDate>Tue, 14 May 2013 00:10:32 GMT</pubDate>
+            <link>https://davbucci.42web.io/index.php?argument=elettronica/elettronica.inc#electroyou&amp;in=36</link>
+            <guid>https://davbucci.42web.io/index.php?argument=elettronica/elettronica.inc#electroyou&amp;in=36</guid>
+    </item>
+    <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.24.2. J'ai mis sur SourceForge la version 0.24.2 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 14 Apr 2013 10:52:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=35</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=35</guid>
+    </item>
+    <item>
+         <title>New english translation: MIDI splitter project</title>
+         <description>
+         I added the translation in english of the MIDI splitter project using a PIC16F876.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 10 Feb 2013 09:37:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/midi_splitter/midi_splitter.inc&amp;language=English&amp;in=34</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/midi_splitter/midi_splitter.inc&amp;language=English&amp;in=34</guid>
+    </item>
+    <item>
+         <title>New english translation: The nixie clock (v. 1.0)</title>
+         <description>
+         I added the translation in english of the first nixie clock project.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 9 Feb 2013 20:51:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/orolnixie/orolnixie.inc&amp;language=English&amp;in=33</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/orolnixie/orolnixie.inc&amp;language=English&amp;in=33</guid>
+    </item>
+    <item>
+         <title>New english translation: The nixie clock (v. 2.1)</title>
+         <description>
+         I added the translation in english of the second nixie clock project.
+         </description>
+         <category>Site update</category>
+         <pubDate>Mon, 4 Feb 2013 21:06:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/orolnixie21/orolnixie21.inc&amp;language=English&amp;in=32</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/orolnixie21/orolnixie21.inc&amp;language=English&amp;in=32</guid>
+    </item>
+    <item>
+         <title>New english translation: My Macintosh SE/30</title>
+         <description>
+         I added the translation in english of the page dedicated to the Apple Mac SE/30.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 25 Nov 2012 22:57:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=se30/se30.inc&amp;language=English&amp;in=31</link>
+        <guid>https://davbucci.42web.io/index.php?argument=se30/se30.inc&amp;language=English&amp;in=31</guid>
+    </item>
+    <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.24.1. J'ai mis sur SourceForge la version 0.24.1 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 4 Nov 2012 23:30:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=31</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=31</guid>
+        </item>
+        <item>
+         <title>Mise à jour graphique, quelques traductions</title>
+         <description>
+         J'ai légérement retouché le style graphique du site et j'ai amélioré quelques détails concernant les langues. J'ai aussi traduit la page d'accueil en anglais, plus quelques autres retouches par ci par là.
+         </description>
+         <category>Site update</category>
+         <pubDate>Wed, 26 Sep 2012 01:56:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?&amp;in=27</link>
+        <guid>https://davbucci.42web.io/index.php?_in27</guid>
+        </item>
+        <item>
+         <title>HP 9000/217 avec HP7957B et HP9122 </title>
+         <description>
+         L'HP 9000/217, aussi connu comme modèle HP9817 était une station de travail fabriquée par Hewlett-Packard dans la période 1984-1985. L'ordinateur était basé sur un processeur Motorola 68010 et pouvait faire tourner le système d'exploitation HP-UX, ainsi que le HP BASIC.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 23 Sep 2012 10:48:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=varie/hp9817/hp9817.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=varie/hp9817/hp9817.inc</guid>
+        </item>
+    
+        <item>
+         <title>Installer Windows per FidoCadJ 0.23.7 </title>
+         <description>
+         Aggiunto un link ad un installer per chi volesse installare FidoCadJ su Microsoft Windows esattamente come farebbe con un programma convenzionale.
+         </description>
+         <category>Site update</category>
+         <pubDate>Fri, 10 Feb 2012 22:22:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=26</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=26</guid>
+        </item>
+        
+         <item>
+            <title>Piccoli aggiornamenti par-ci par-là</title>
+            <description>
+            Ho tradotto in inglese gli aggiornamenti alla pagina di elettronica ed ho rivisto alcuni dettagli. Ho aggiunto un link alla traduzione in italiano dell'articolo "The mathematical simmetry of the differential pair" ed ho cercato di migliorare un po' qualche cosettina non solo in questa pagina.
+            </description>
+            <category>Site update</category>
+            <pubDate>Fri, 10 Feb 2012 22:18:32 GMT</pubDate>
+            <link>https://davbucci.42web.io//index.php?argument=elettronica/elettronica.inc</link>
+            <guid>https://davbucci.42web.io//index.php?argument=elettronica/elettronica.inc_in=54</guid>
+        </item>
+        
+    
+        <item>
+            <title>Aggiornamento sezione Elettronica</title>
+            <description>
+            Ho aggiornato la sezione dedicata all'elettronica, mettendo a disposizione i link agli articoli che ho scritto sul blog di ElectroYou.
+            </description>
+            <category>Site update</category>
+            <pubDate>Fri, 30 Dec 2011 00:16:32 GMT</pubDate>
+            <link>https://davbucci.42web.io//index.php?argument=elettronica/elettronica.inc#electroyou</link>
+            <guid>https://davbucci.42web.io//index.php?argument=elettronica/elettronica.inc#electroyou</guid>
+        </item>
+        
+        <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.23.7. J'ai mis sur SourceForge la version 0.23.7 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 5 Nov 2011 21:25:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=25</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=25</guid>
+        </item>
+                
+        <item>
+            <title>Nouvelle page/Nuova pagina: Amplificatore stereo 55 W</title>
+            <description>
+            Un article décrivant ma réalisation d'un amplificateur stéreo 55 W + 55 W, sur la base du projet P3A de Rod Elliot. Un articolo che descrive la mia realizzazione di un amplificatore stereo da 55 W + 55 W, basato sul progetto P3A di Rod Elliot.
+            </description>
+            <category>Site update</category>
+            <pubDate>Mon, 03 Oct 2011 19:58:32 GMT</pubDate>
+            <link>https://davbucci.42web.io/index.php?argument=elettronica/amplificatore/amplificatore.inc</link>
+            <guid>https://davbucci.42web.io/index.php?argument=elettronica/amplificatore/amplificatore.inc</guid>
+        </item>
+        <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.23.6. J'ai mis sur SourceForge la version 0.23.6 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 31 Jul 2011 12:00:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=24</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=24</guid>
+        </item>
+        <item>
+            <title>Nuova libreria FidoCad/FidoCadJ</title>
+             <description>
+            Nuova libreria fornita Maurizio Mileto e dedicata ad una ampissima collezione di simboli di elettrotecnica e di impiantistica civile ed industriale.
+            </description>
+            <category>Site update</category>
+            <pubDate>Sat, 26 Feb 2011 21:22:32 GMT</pubDate>
+            <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=5</link>
+            <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc_in=5</guid>
+        </item>
+          
+    
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.23.5. J'ai mis sur SourceForge la version 0.23.5 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 22 Jan 2011 11:56:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=23</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=23</guid>
+    </item>
+    
+    
+    <item>
+        <title>Avventura: La piramide di Innuh</title>
+        <description>
+        Ho trascritto una vecchia avventura testuale il cui listato era stato pubblicato in alcuni numeri di MCmicrocomputer durante il 1984. Da qualche parte in mezzo al deserto giace la piramide di Innuh...
+        </description>
+        <category>Site update</category>
+        <pubDate>Sat, 8 Jan 2011 22:51:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=varie/innuh/innuh.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=varie/innuh/innuh.inc</guid>
+      </item>
+  
+
+    <item>
+        <title>Nuovo tutorial video su FidoCadJ</title>
+        <description>
+        Ho preparato un nuovo tutorial video dedicato a FidoCadJ. Viene presentato l'uso di FidoCadJ per disegnare semplici circuiti stampati.
+        </description>
+        <category>Site update</category>
+        <pubDate>Mon, 6 Dec 2010 19:30:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=22</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=22</guid>
+      </item>
+    <item>
+        <title>Nouvelle traduction en français</title>
+        <description>
+        J'ai terminé la traduction de l'article Un horloge avec un PIC16F84 et un PCF8573, partie II 
+        </description>
+        <category>Site update</category>
+        <pubDate>Sun, 5 Dec 2010 22:10:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/orologio/orologio_2.inc&amp;in=21</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/orologio/orologio_2.inc=21</guid>
+    </item>  
+    <item>
+         <title>Nuovo tutorial video su FidoCadJ</title>
+         <description>
+         Ho preparato un nuovo tutorial video dedicato a FidoCadJ. Ho curato un po' di più l'audio, questa volta. L'argomento trattato è l'utilizzo dei layer.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 29 Aug 2010 14:36:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=19</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=19</guid>
+      </item>
+    <item>
+         <title>Nuova libreria FidoCad e aggiornamento libreria IHRaM</title>
+         <description>
+         Nuova libreria fornita da Mario i3HEV e dedicata a footprint di componenti per radiofrequenza. La libreria IHRaM è stata aggiornata alla versione 3.0
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 28 Aug 2010 12:47:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=4</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc_in=4</guid>
+      </item>
+      
+    <item>
+        <title>Nouvelle traduction en français</title>
+        <description>
+        J'ai terminé la traduction de l'article Un horloge avec un PIC16F84 et un PCF8573, partie I 
+        </description>
+        <category>Site update</category>
+        <pubDate>Mon, 28 Jun 2010 18:57:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=elettronica/orologio/orologio_1.inc&amp;in=19</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/orologio/orologio_1.inc=19</guid>
+    </item>  
+    
+    <item>
+        <title>Nouvelle page/Nuova pagina: Macintosh SE/30</title>
+        <description>
+        Ho preparato una pagina che descrive con qualche foto l'esperienza di navigare su Internet nel 2010 con un Macintosh SE/30 del 1989. J'ai preparée une nouvelle page qui décrit avec des photos l'expérience de naviguer en Internet en 2010 avec un Macintosh SE/30 du 1989.
+        </description>
+        <category>Site update</category>
+        <pubDate>Sun, 27 Jun 2010 20:19:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=se30/se30.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=se30/se30.inc</guid>
+    </item>
+      
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.23.3. J'ai mis sur SourceForge la version 0.23.3 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 9 May 2010 09:51:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=18</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=18</guid>
+        </item>
+
+      <item>
+         <title>Quelques retouches à la graphique du site</title>
+         <description>J'ai retouché un peu l'aspect graphique de tout le site. Sur Safari et Firefox, les textes longs devraient apparaître sur deux colonnes. Ho ritoccato leggermente l'aspetto grafico del mio sito. In particolare, su Safari e Firefox i testi lunghi dovrebbero apparire su due colonne.
+         </description>
+         <category>Site update</category>
+         <pubDate>Tue, 13 Apr 2010 19:08:32 GMT</pubDate>
+         <link>http://davbucci.chez-alice.fr</link>
+        <guid>http://davbucci.chez-alice.fr_in=7</guid>
+      </item>
+      
+      <item>
+         <title>Nouvelle version de l'application FidoReadJ </title>
+         <description>J'ai mis en ligne une nouvelle version de l'appliquette qui permet de lire les dessins en format Fidocad, la 0.23.2. Les versions de FidoCadJ et de FidoReadJ sont maintenant parfaitement alignées. Ho messo in linea una nuova versione dell'applet che permette di leggere i file in formato Fidocad, la 0.23.2. Adesso FidoCadJ e FidoReadJ sono perfettamente allineati.
+         </description>
+         <category>Site update</category>
+         <pubDate>Tue, 30 Mar 2010 21:46:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidoreadj/fidoreadj.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidoreadj/fidoreadj.inc_language=Francais_in=5</guid>
+      </item>
+      
+      <item>
+         <title>Nuova libreria FidoCad nella raccolta</title>
+         <description>
+         Nuova libreria FidoCad (fornita da Nobody) disponibile nella raccolta. Questa volta, si tratta di simboli utili per l'ingegneria civile. Nouvelle librairie FidoCad (fournie par Nobody) disponible dans la recolte. Symboles utils pour le génie civil.
+         </description>
+         <category>Site update</category>
+         <pubDate>Mon, 15 Mar 2010 20:20:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=3</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc_in=3</guid>
+      </item>
+      
+      <item>
+         <title>Nuova libreria FidoCad nella raccolta</title>
+         <description>
+         Nuova libreria FidoCad (fornita da Lorenzo Neri). Contiene alcuni footprint SSOP per correggere quelli che sono presenti nella libreria standard e che hanno una spaziatura non ottimale. Nouvelle bibliothéque FidoCad (fournie par Lorenzo Neri) disponible dans la recolte. Elle améliore les empreintes SSOP. 
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 13 Feb 2010 16:36:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=11</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc_in=11</guid>
+      </item>
+
+      <item>
+         <title>Correction du manuel en français du FidoCadJ</title>
+         <description>
+        Grâce à des remarques très bienvenues de la part de Geo Cherchetout, j'ai implementé un bon nombre de corrections sur le manuel français du logiciel. Maintenant, la nouvelle version devrait être nettement plus agréable à lire et aussi plus claire.
+        </description>
+         <category>Site update</category>
+         <pubDate>Sat, 13 Feb 2010 15:31:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=15</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=15</guid>
+      </item>
+
+
+
+        <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.23.2. J'ai mis sur SourceForge la version 0.23.2 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Thu, 4 Mar 2010 20:05:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=17</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=17</guid>
+        </item>
+
+        <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.23.1. J'ai mis sur SourceForge la version 0.23.1 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Fri, 15 Jan 2010 22:06:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=16</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=16</guid>
+      </item>
+
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo su SourceForge una nuova versione di FidoCadJ, la 0.23. J'ai mis sur SourceForge la version 0.23 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Fri, 18 Dec 2009 22:06:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc&amp;in=11</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc_in=11</guid>
+      </item>
+     
+       <item>
+         <title>FidoCadJ </title>
+         <description>
+         FidoCadJ debutta su SourceForge! 
+         FidoCadJ débute sur SourceForge !
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 7 Nov 2009 21:22:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=10</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=10</guid>
+      </item>
+      
+      <item>
+         <title>Convertisseur pour ampoule fluorescente 20 W</title>
+         <description>
+         La page avec description détaillé d'un convertisseur pour ampoule fluorescente a été complètement traduite en français.
+         </description>
+         <category>Site update</category>
+         <pubDate>Mon, 12 Oct 2009 21:10:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/inverter_neon/inverter_neon.inc&amp;in=2</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/inverter_neon/inverter_neon.inc_in=2</guid>
+      </item>
+      
+      <item>
+         <title>Progetto: un inverter per lampada fluorescente 20 W - Convertisseur pour ampoule fluorescente 20 W</title>
+         <description>
+         Nuova pagina con descrizione dettagliata di un inverter per lampada fluorescente. Nouvelle page avec description détaillé d'un convertisseur pour ampoule fluorescente. La version française est en train d'être préparée.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 5 Sep 2009 21:21:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/inverter_neon/inverter_neon.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/inverter_neon/inverter_neon.inc</guid>
+      </item>
+      
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo a disposizione una nuova versione di FidoCadJ, la 0.22. J'ai mis sur le site la version 0.22 de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Fri, 31 Jul 2009 18:00:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc&amp;in=7</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc_in=7</guid>
+      </item>
+      
+      
+      <item>
+         <title>Nuova libreria FidoCad nella raccolta</title>
+         <description>
+         Nuova libreria FidoCad (fornita da .ste) disponibile nella raccolta. Nouvelle librairie FidoCad (fournie par .ste) disponible dans la recolte. 
+         </description>
+         <category>Site update</category>
+         <pubDate>Mon, 22 Jun 2009 21:36:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=2</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc_in=2</guid>
+      </item>
+      
+      
+      <item>
+         <title>Lancia Fulvia Berlina</title>
+         <description>
+         Ho scritto qualche riga e messo qualche foto della mia Lancia Fulvia Berlina, seconda serie del 1972. J'ai mis quelques photos de ma Lancia Fulvia Berline, seconde série de 1972.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 7 Jun 2009 21:57:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=fulvia/fulvia.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=fulvia/fulvia.inc</guid>
+      </item>
+      
+      <item>
+         <title>Nuovo screenshot: FidoCadJ sotto Linux</title>
+         <description>
+         Roberto Pozzato IZ1CYN, mi ha inviato uno screenshot di FidoCadJ sotto Linux Ubuntu 8.04. Roberto Pozzato IZ1CYN m'a envoyé une copie d'écran de FidoCadJ sous Linux Ubuntu 8.04.
+         </description>
+         <category>Site update</category>
+         <pubDate>Thu, 19 Mar 2009 20:12:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc&amp;in=8</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=8</guid>
+      </item>
+      
+      <item>
+         <title>Nuova versione del manuale in italiano di FidoCadJ</title>
+         <description>
+         Grazie al contributo di Roberto Pozzato IZ1CYN, la nuova versione del manuale di FidoCadJ contiene ora delle istruzioni dettagliate su come installare il programma sotto Linux.
+         </description>
+         <category>Site update</category>
+         <pubDate>Thu, 19 Mar 2009 20:12:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/elettronica/fidocadj/fidocadj_manual_it.pdf</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_in=7</guid>
+      </item>
+      
+      <item>
+         <title>Nuova libreria FidoCad nella raccolta</title>
+         <description>
+         Nuova libreria FidoCad (fornita da Tullio 'Juan Bravo') disponibile nella raccolta. Nouvelle librairie FidoCad (fournie par Tullio 'Juan Bravo') disponible dans la recolte. 
+         </description>
+         <category>Site update</category>
+         <pubDate>Fri, 13 Mar 2009 20:56:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc&amp;in=1</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc_in=1</guid>
+      </item>
+        
+      
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo sul sito una nuova versione di FidoCadJ, la 0.21.1a. J'ai mis sur le site la version 0.21.1a de FidoCadJ.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Thu, 12 Mar 2009 22:09:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc&amp;in=6</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc_in=6</guid>
+      </item>
+      
+      <item>
+         <title>Raccolta di librerie FidoCad</title>
+         <description>
+          Ho creato una nuova paginetta contenente le librerie FidoCad/FidoCadJ che gli utenti FidoCad hanno creato nel corso degli anni. J'ai créé une nouvelle page contenant les librairies FidoCad/FidoCadJ que les utilisateurs ont crées au fil des années.
+         </description>
+         <category>Site update</category>
+         <pubDate>Thu, 12 Mar 2009 22:09:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fc_libraries/fc_libraries.inc</guid>
+      </item>
+      
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo sul sito una nuova versione di FidoCadJ, la 0.21.1. I manuali sono stati aggiornati. J'ai mis sur le site la version 0.21.1 de FidoCadJ. Les manuels d'utilisation ont été mis à jour aussi.  
+         </description>
+         <category>Site update</category>
+         <pubDate>Mon, 23 Feb 2009 23:28:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc&amp;in=5</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc_in=5</guid>
+      </item>
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo sul sito una nuova versione di FidoCadJ, la 0.21. J'ai mis sur le site la version 0.21 de FidoCadJ. Le manuel d'utilisation du lociel est maintenant disponible en français. 
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 17 Jan 2009 11:28:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc&amp;in=4</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/version_history.inc_in=4</guid>
+      </item>
+      
+      <item>
+         <title>Nuova pagina: la versione 2.1 dell'orologio a Nixie</title>
+         <description>
+         Una nuova versione dell'orologio a Nixie è presentata e commentata. Alcuni problemi della prima versione sono risolti ed in più viene presentato uno sbroglio di circuito stampato scaricabile in versione FidoCadJ.
+         
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 8 Nov 2008 18:22:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/orolnixie21/orolnixie21.inc&amp;id=28</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/orolnixie21/orolnixie21.inc_id=28</guid>
+      </item>      
+      
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo sul sito una nuova versione di FidoCadJ, la 0.20.5. J'ai mis sur le site la version 0.20.5 de FidoCadJ. 
+         </description>
+         <category>Site update</category>
+         <pubDate>Tue, 21 Oct 2008 20:24:32 GMT</pubDate>
+         <link>http://darwin.local/varie/mysite/index.php?argument=elettronica/fidocadj/version_history.inc&amp;in=3</link>
+        <guid>http://darwin.local/varie/mysite/index.php?argument=elettronica/fidocadj/version_history.inc_in=3</guid>
+      </item>
+      
+        
+      
+      <item>
+         <title>Nouvelle traduction : Introduction à Gnuplot</title>
+         <description>
+         Gros travail de traduction : le tutorial sur Gnuplot a été traduit en français. J'ai aussi apporté quelques petites corrections.
+         </description>
+         <category>Site update</category>
+         <pubDate>Mon, 29 Sep 2008 22:27:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=matematica/gnuplot/gnuplot.inc&amp;language=Francais&amp;id=29</link>
+        <guid>https://davbucci.42web.io/index.php?argument=matematica/gnuplot/gnuplot.inc&amp;language=Francais_id=29</guid>
+      </item>     
+      
+      <item>
+         <title>Nouvelle traduction : Envoyer échantillons MIDI SDS à un synthé externe</title>
+         <description>
+         La page où je décris le petit logiciel utile pour envoyer des échantillons SDS en un système MIDI a été traduite en Français.
+         </description>
+         <category>Site update</category>
+         <pubDate>Mon, 22 Sep 2008 21:46:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=musica/midi_sds/midi_sds.inc&amp;language=Francais&amp;id=28</link>
+        <guid>https://davbucci.42web.io/index.php?argument=musica/midi_sds/midi_sds.inc&amp;language=Francais_id=28</guid>
+      </item>      
+      
+      <item>
+         <title>Nouvelle traduction : l'horloge à nixies !</title>
+         <description>
+         La page sur la construction de l'horloge à nixies (un des coins le plus populaires du site, selon Google) a été complètement traduite en Français.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 14 Sep 2008 21:37:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/orolnixie/orolnixie.inc&amp;language=Francais&amp;id=27</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/orolnixie/orolnixie.inc&amp;language=Francais_id=27</guid>
+      </item>      
+      
+      <item>
+         <title>Schema elettrico v. 2.0 orologio nixie</title>
+         <description>
+         Grazie all'aiuto di Francesco, aggiorno la pagina sull'orologio a nixie con uno schema elettrico migliore per chi volesse costruire l'orologio.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 6 Sep 2008 13:27:32 GMT</pubDate>
+         <link>http://darwin.local/Varie/mysite/index.php?argument=elettronica/orolnixie/orolnixie.inc&amp;id=26</link>
+        <guid>http://darwin.local/Varie/mysite/index.php?argument=elettronica/orolnixie/orolnixie.inc_id=26</guid>
+      </item>      
+      
+      <item>
+         <title>Foto dell'orologio a nixie di Francesco</title>
+         <description>
+         Francesco mi ha mandato le foto del suo orologio a nixie fatto sulla base del mio progetto. Grazie Francesco!
+         </description>
+         <category>Site update</category>
+         <pubDate>Thu, 28 Aug 2008 22:29:32 GMT</pubDate>
+         <link>http://darwin.local/Varie/mysite/index.php?argument=elettronica/orolnixie/orolnixie.inc&amp;id=25</link>
+        <guid>http://darwin.local/Varie/mysite/index.php?argument=elettronica/orolnixie/orolnixie.inc_id=25</guid>
+      </item>      
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo sul sito una nuova versione di FidoCadJ, la 0.20.4
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 24 Aug 2008 09:20:32 GMT</pubDate>
+         <link>http://darwin.local/varie/mysite/index.php?argument=elettronica/fidocadj/version_history.inc&amp;in=2</link>
+        <guid>http://darwin.local/varie/mysite/index.php?argument=elettronica/fidocadj/version_history.inc_in=2</guid>
+      </item>
+      
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo sul sito una nuova versione di FidoCadJ, la 0.20.3
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 20 Jul 2008 13:01:32 GMT</pubDate>
+         <link>http://darwin.local/varie/mysite/index.php?argument=elettronica/fidocadj/version_history.inc&amp;in=1</link>
+        <guid>http://darwin.local/varie/mysite/index.php?argument=elettronica/fidocadj/version_history.inc_in=1</guid>
+      </item>
+
+      <item>
+         <title>Nuova versione di FidoCadJ</title>
+         <description>
+         Ho messo sul sito una nuova versione di FidoCadJ, la 0.20.2; in più della versione precedente, ho implementato l'esportazione in formato EPS ed ho corretto alcuni bug.
+         </description>
+         <category>Site update</category>
+         <pubDate>Fri, 11 Jul 2008 00:00:32 GMT</pubDate>
+         <link>http://darwin.local/varie/mysite/index.php?argument=elettronica/fidocadj/version_history.inc</link>
+        <guid>http://darwin.local/varie/mysite/index.php?argument=elettronica/fidocadj/version_history.inc</guid>
+      </item>
+      
+      <item>
+         <title>Midi Patch Bay </title>
+         <description>
+         La pagina dedicata al MIDI splitter è stata aggiornata e presenta alcune idee relative alla realizzazione di una patch bay MIDI con sei uscite. Tutti i file CAD in formato EAGLE sono forniti, ma il tutto non è mai stato testato e lo riporto qui per fornire eventualmente un'ispirazione a chi fosse interessato a materiale del genere.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 6 Jul 2008 19:45:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/midi_splitter/midi_splitter.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/midi_splitter/midi_splitter.inc</guid>
+      </item>
+      
+      <item>
+         <title>FidoCadJ est désormais disponible ! </title>
+         <description>Un grand travail a été fait pour transformer le simple lecteur de fichiers FidoCad dans un éditeur complet. L'aboutissement de ces éfforts est disponible dans le site&amp;nbsp;! Un gran lavoro è stato fatto per trasformare il piccolo lettore di disegni in formato FidoCad in un editor completo. Il risultato di questi sforzi è disponibile su questo sito!
+         </description>
+         <category>Site update</category>
+         <pubDate>Tue, 1 Jul 2008 20:45:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidocadj/fidocadj.inc_language=Francais</guid>
+      </item>
+      
+      <item>
+         <title>Nouvelle version de l'application FidoReadJ </title>
+         <description>J'ai mis en ligne une nouvelle version de l'application qui permet de lire les dessins en format Fidocad, la 0.16.4. Ho messo in linea una nuova versione dell'applicazione che permette di leggere i file in formato Fidocad, la 0.16.4.
+         </description>
+         <category>Site update</category>
+         <pubDate>Sat, 3 May 2008 20:45:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidoreadj/fidoreadj.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidoreadj/fidoreadj.inc_language=Francais</guid>
+      </item>
+      
+      <item>
+         <title>Traduction en français : Une introduction à Maxima </title>
+         <description>La page Une introduction à Maxima a été entièrement traduite en Français...
+         </description>
+         <category>Site update</category>
+         <pubDate>Sun, 9 Mar 2008 11:42:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=matematica/maxima/maxima.inc&amp;language=Francais</link>
+        <guid>https://davbucci.42web.io/index.php?argument=matematica/maxima/maxima.inc_language=Francais</guid>
+      </item>
+      
+      
+      <item>
+         <title>Titres des pages</title>
+         <description>Les pages du site ont finalement un titre conséquent...
+         Finalmente, le pagine del sito hanno un titolo adeguato...</description>
+         <category>Site update</category>
+         <pubDate>Wed, 5 Mar 2008 11:42:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php</link>
+        <guid>https://davbucci.42web.io/index.php</guid>
+      </item>   
+      <item>
+         <title>FidoReadJ en version à télécharger</title>
+         <description>Une version à télécharger de l'appliquette FidoReadJ est maintenant disponible sur le site. Cette version est multiplateforme (necessite de Java 1.5 installé sur la machine) et permet d'imprimer les schémas et de les exporter sous dans des fichiers graphiques sous des formats populaires.
+         L'applet FidoReadJ è adesso liberamente scaricabile sotto forma di applicazione indipendente da installare nel sistema. Questa versione è multipiattaforma (richiede una macchina virtuale Java 1.5 disponible sul sistema) e permette di stampare gli schemi ed esportarli in un file grafico.</description>
+         <category>Site update</category>
+         <pubDate>Sun, 10 Feb 2008 12:23:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidoreadj/fidoreadj.inc</link>
+        <guid>https://davbucci.42web.io/elettronica/fidoreadj/FidoReadJ_application.zip</guid>
+            
+      <source url="https://davbucci.42web.io/">Le site de Davide Bucci</source>
+         <author>davbucci@tiscali.it (Davide Bucci)</author>
+      </item> 
+      
+      
+      <item>
+         <title>Nouvelle version de FidoReadJ</title>
+         <description>La version 0.14 de l'appliquette FidoReadJ est maintenant disponible. Cette appliquette permet de tracer dans la fenêtre du navigateur des dessins en format Fidocad. Un gros travail a été fait dans cette version pour améliorer la qualité et la rapidité d'affichage.
+         La versione 0.14 dell'applet FidoReadJ è disponibile con i sorgenti. Questa applet permette di disegnare direttamente nella finestra del browser un disegno in formato Fidocad. Questa versione costituisce un miglioramento della precedente in termini di qualità e di rapidità di disegno.</description>
+         <category>Site update</category>
+         <pubDate>Thu, 13 Dec 2007 18:18:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=elettronica/fidoreadj/fidoreadj.inc</link>
+        <guid>https://davbucci.42web.io/index.php?argument=elettronica/fidoreadj/fidoreadj.inc</guid>
+            
+      <source url="https://davbucci.42web.io/">Le site de Davide Bucci</source>
+         <author>davbucci@tiscali.it (Davide Bucci)</author>
+      </item> 
+     <item>
+         <title>Un nouveau morceau de musique</title>
+         <description>J'ai proposé une orchestration de Bach BWV 639, dans la section Musique. Ho proposto un'orchestrazione di Bach BWV 639 nella sezione Musica.</description>
+         <category>Site update</category>
+         <pubDate>Sun, 11 Nov 2007 22:48:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/musica/bwv639.mp3</link>
+        <guid>https://davbucci.42web.io/musica/bwv639.mp3</guid>
+            
+      <source url="https://davbucci.42web.io/">Le site de Davide Bucci</source>
+         <author>davbucci@tiscali.it (Davide Bucci)</author>
+      </item> 
+     
+     
+     <item>
+         <title>Traduction en Français d'un article</title>
+         <description>L'article "Le problème de la gamme musicale" a été traduit en Français. L'articolo "Il problema della scala musicale" è stato tradotto in francese.</description>
+         <category>Site update</category>
+         <pubDate>Sun, 11 Nov 2007 11:25:32 GMT</pubDate>
+         <link>https://davbucci.42web.io/index.php?argument=musica/scala/scala.inc&amp;language=Francais</link>
+        <guid>https://davbucci.42web.io/index.php?argument=musica/scala/scala.inc_language=Francais</guid>
+            
+      <source url="https://davbucci.42web.io/">Le site de Davide Bucci</source>
+         <author>davbucci@tiscali.it (Davide Bucci)</author>
+      </item> 
+    
+      
+     
+   </channel>
+</rss>
+
