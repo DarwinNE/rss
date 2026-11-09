@@ -7,6 +7,18 @@
     <link>https://davbucci.42web.io/</link>
     <description>Davide Bucci's works</description>
 
+   <item>
+        <title>New page on the website: List of my musical works </title>
+        <description>
+        I wanted to put in a single page the list of all the musical works I published through the years. Enjoy!
+        </description>
+        <category>Music</category>
+        <pubDate>Mon, 9 Nov 2026 22:59:32 GMT</pubDate>
+        <link>https://davbucci.42web.io/index.php?argument=musica/all_music/all_music.inc</link>
+        <guid isPermaLink="false">https://davbucci.42web.io/index.php?argument=musica/all_music/all_music.inc</guid>
+    </item>
+
+
     <item>
         <title>New server!</title>
         <description>
